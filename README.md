@@ -1,16 +1,43 @@
-## Hi there 👋
+### 您好，大家叫我盛少 👋
 
-<!--
-**aresplus/aresplus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+做互联网产品和设计 18 年了。从设计师做到产品经理，从产品经理做到产品总监，后来独立创业，一直在做同一件事：**把复杂技术变成普通人能用的产品。**
 
-Here are some ideas to get you started:
+做过招聘平台、大数据系统、SaaS BI，服务过 70 多家企业客户。2023 年 AI 浪潮来了之后，我把全部精力投入到 AI 应用落地这件事上。不是因为追风口，是因为我在这个交叉点上做了十几年准备——产品思维、设计能力、内容表达、技术理解——**这些能力在 AI 时代突然全部接通了。**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+我出版了三本 AI 图书：
+* 🎨 《Midjourney人工智能绘画从入门到精通》- 由清华大学出版社出版
+* 🧒 《趣解AI：给中小学生的人工智能学习手册》- 写给中小学生看
+* 🧠 《学习有AI，DeepSeek驱动的五步学习法》- 把 DeepSeek 和学习方法论做了结合
+
+三本书面向三个完全不同的人群，但做的是同一件事：**把 AI 讲明白，让人用得起来。**
+
+现在我的工作分两条线：一条是帮企业把 AI 真正落地——不是买工具，不是做展示，而是找到 AI 在业务流程中真正能产生价值的切入点，设计可执行的方案。另一条是持续做知识产品——把方法论变成图书、内容和工具，让更多人受益。
+
+有人觉得这两件事很分裂，其实它们的底层逻辑完全一样：**把复杂变简单，把概念变结果。**
+
+我没有名校背景，没有大厂履历。我有的是 18 年持续做事积累下来的产品直觉、一套把抽象能力变成可交付成果的方法、以及一个很朴素的信念——
+
+> **做出来，比说出来重要。**
+
+---
+
+### 🌟 我的开源与应用项目 
+
+这是我过去几年折腾出的一些成果、工具和代码库，希望能为您带来启发：
+
+*   [tech-slides-generator](https://github.com/aresplus/tech-slides-generator) - **[Python]** 一键生成带有科技赛博朋克风格的专业 PPT 幻灯片，用自然语言驱动生产力。
+*   [3WChatGPT](https://github.com/aresplus/3WChatGPT) - 致力于技术推广和信息服务的创新型平台，探索 AI 时代的社区协作模式。
+*   *(正在使用 AI 辅助编程持续构建更多好玩的提效工具中...)*
+
+### 🔗 找到我 / 交流合作
+
+探讨 AI 产品设计、智能体工作流 (Agentic Workflow)、内容变现系统设计，随时欢迎聊聊。
+
+*   **知乎主页：** [在这里分享我的产品思考与 AI 实战](https://www.zhihu.com/people/aresng)
+*   *(如果您有个人博客/微信公众号，也可以在这里加上链接)*
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aresplus&show_icons=true&theme=transparent&hide_border=true&title_color=2F80ED&text_color=434D56" alt="aresplus's github stats" width="400"/>
+</p>
