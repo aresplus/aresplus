@@ -25,19 +25,16 @@
 
 这是我过去几年折腾出的一些成果、工具和代码库，希望能为您带来启发：
 
-*   [tech-slides-generator](https://github.com/aresplus/tech-slides-generator) - **[Python]** 一键生成带有科技赛博朋克风格的专业 PPT 幻灯片，用自然语言驱动生产力。
+*   [tech-slides-generator](https://github.com/aresplus/tech-slides-generator) - **[Python]** 一键生成带有科技赛博朋克风格的专业 PPT 幻灯片，用自然语言驱动生产力。 
+*   [project-aegis-copilot](https://github.com/aresplus/project-aegis-copilot) - 主要用于构建具有闭环架构、确定性工作流程和 Claude 技能执行的工业级 AI 代理系统，内附有程序源码和指导手册。
 *   [3WChatGPT](https://github.com/aresplus/3WChatGPT) - 致力于技术推广和信息服务的创新型平台，探索 AI 时代的社区协作模式。
-*   *(正在使用 AI 辅助编程持续构建更多好玩的提效工具中...)*
+   
 
 ### 🔗 找到我 / 交流合作
 
 探讨 AI 产品设计、智能体工作流 (Agentic Workflow)、内容变现系统设计，随时欢迎聊聊。
 
 *   **知乎主页：** [在这里分享我的产品思考与 AI 实战](https://www.zhihu.com/people/aresng)
-*   *(如果您有个人博客/微信公众号，也可以在这里加上链接)*
-
+*   **公众号：** [个人运营的一个科技自媒体](https://mp.weixin.qq.com/s/uc8SJfRmklrTSLzx2aUs8Q)
+    
 <br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aresplus&show_icons=true&theme=transparent&hide_border=true&title_color=2F80ED&text_color=434D56" alt="aresplus's github stats" width="400"/>
-</p>
