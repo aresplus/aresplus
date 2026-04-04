@@ -32,7 +32,7 @@
 这是我过去几年折腾出的一些成果、工具和代码库，希望能为您带来启发：
 
 *   [tech-slides-generator](https://github.com/aresplus/tech-slides-generator) - **[Python]** 一键生成带有科技赛博朋克风格的专业 PPT 幻灯片，用自然语言驱动生产力。 
-*   [project-aegis-copilot](https://github.com/aresplus/project-aegis-copilot) - 主要用于构建具有闭环架构、确定性工作流程和 Claude 技能执行的工业级 AI 代理系统，内附有程序源码和指导手册。
+*   [project-aegis-copilot](https://github.com/aresplus/project-aegis-copilot) - 主要用于构建具有闭环架构、确定性工作流程和 Claude 技能执行的工业级 AI 智能体系统，内附有程序源码和指导手册。
 *   [3WChatGPT](https://github.com/aresplus/3WChatGPT) - 致力于技术推广和信息服务的创新型平台，探索 AI 时代的社区协作模式。
    
 
