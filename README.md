@@ -41,6 +41,6 @@
 探讨 AI 产品设计、智能体工作流 (Agentic Workflow)、内容变现系统设计，随时欢迎聊聊。
 
 *   **知乎主页：** [在这里分享我的产品思考与 AI 实战](https://www.zhihu.com/people/aresng)
-*   **公众号：** [个人运营的一个科技自媒体](https://mp.weixin.qq.com/s/uc8SJfRmklrTSLzx2aUs8Q)
+*   **公众号：** [来听听我的故事](https://mp.weixin.qq.com/s/fFsoU06REQzH43FT6ha9-Q)
     
 <br>
